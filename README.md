@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **josephvijayj17bca015@gmail.com**
 
-- ⚡ Fun fact **Thiruvalluvar 1330 Even if the crime arises, he can only speak in one voice**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
