@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://kamalesh-portfolio-k13h11.netlify.app](https://kamalesh-portfolio-k13h11.netlify.app)
+- 👨‍💻 All of my projects are available at [https://clinquant-stardust-f5cfa1.netlify.app/](https://clinquant-stardust-f5cfa1.netlify.app/)
 
 - 📫 How to reach me **josephvijayj17bca015@gmail.com**
 
